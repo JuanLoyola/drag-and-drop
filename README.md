@@ -23,10 +23,10 @@ D&D API <a href="https://developer.mozilla.org/en-US/docs/Web/API/HTML_Drag_and_
 <img src="https://i.imgur.com/0Vm1dBH.png" alt="desktop preview">
 
 # Mobile preview:
-oops!.. No mobile preview for now 😉
+Only desktop.
 
 # See the live here:
-No live 😪
+Live <a href="https://my-drag-and-drop.netlify.app/" target="_blank">here</a>
 
 
 ## Project setup
